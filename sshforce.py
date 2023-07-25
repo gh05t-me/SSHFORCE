@@ -51,4 +51,4 @@ with open("Wordlists/users.txt", "r") as users_list:
 					print("[XXX] Invalid login!")
 				attempts += 1
 
-#write by gh05t https://www.linkedin.com/in/eddie-gbaguidi-208b87242
+#writed by gh05t https://www.linkedin.com/in/eddie-gbaguidi-208b87242
